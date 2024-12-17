@@ -1,0 +1,80 @@
+.navbar-brand {
+  position: absolute;
+  width: 201px;
+  height: 40px;
+  left: 76px;
+  top: 90px;
+}
+.btn-1 {
+  position: absolute;
+  width: 115px;
+  height: 38px;
+  left: 1280px;
+  top: 100px;
+  border-radius: 100px;
+  background: rgb(82, 34, 208);
+}
+.btn {
+  position: absolute;
+  top: 120px;
+  border-radius: 100px;
+  background: rgb(82, 34, 208);
+}
+.nav-link {
+  position: absolute;
+  text-decoration: none;
+  width: 139px;
+  height: 32px;
+  top: 688px;
+  color: rgb(82, 34, 208);
+  white-space: nowrap;
+}
+.one {
+  left: 126px;
+}
+.two {
+  left: 299px;
+}
+.three {
+  left: 444px;
+}
+.four {
+  left: 573px;
+}
+.img-window {
+  position: absolute;
+  width: 663.34px;
+  height: 666.65px;
+  left: 39.93%;
+  right: -59.93%;
+  top: 17.69%;
+  bottom: -9.72%;
+}
+.card-title {
+  position: absolute;
+  width: 542px;
+  height: 216px;
+  left: 126px;
+  top: 206px;
+  color: rgb(0, 0, 0);
+  font-family: Intro;
+  font-size: 60px;
+  font-weight: 400;
+  line-height: 120%;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.card-text {
+  position: absolute;
+  width: 487px;
+  height: 96px;
+  left: 126px;
+  top: 432px;
+  color: rgb(0, 0, 0);
+  font-family: Roboto Slab;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 160%;
+  letter-spacing: 0%;
+  text-align: left;
+}

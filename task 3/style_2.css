@@ -1,0 +1,19 @@
+.news {
+  background-color: #ec615b;
+}
+.nav-link {
+  white-space: nowrap;
+
+  color: black;
+}
+.btn-1 {
+  position: absolute;
+  left: 1510px;
+  top: 60px;
+  border-radius: 100px;
+  background: rgb(82, 34, 208);
+}
+.btn {
+  border-radius: 100px;
+  background: rgb(82, 34, 208);
+}
